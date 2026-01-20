@@ -9,6 +9,9 @@
 The software system `Digital Curation Manager` (DCM) developed in the context of the [LZV.nrw](https://lzv.nrw/)-initiative. Related repositories:
 * [Digital Curation Manager](https://github.com/lzv-nrw/digital-curation-manager)
 * [DCM User Guide](https://github.com/lzv-nrw/dcm-user-guide)
+* Specifications
+  * [Information Package Specification](https://github.com/lzv-nrw/spec-information-package)
+  * [Submission Information Package Specification](https://github.com/lzv-nrw/spec-submission-information-package)
 * APIs
   * [Import Module API](https://github.com/lzv-nrw/dcm-import-module-api)
   * [Object Validator API](https://github.com/lzv-nrw/dcm-object-validator-api)
